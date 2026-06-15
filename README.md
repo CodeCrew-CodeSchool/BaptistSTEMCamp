@@ -2,9 +2,19 @@
 
 ## Here's some free resources to continue learning and building your dreams
 
+### Tools
+
+[Code Editor](https://vscode.dev)
+
+[Project Storage](https://github.com)
+
+### Lessons
+
+[FREE CyberSecurity Intro Lesson](https://codecrew-codeschool.github.io/esd/)
+
 [FREE Web Development Lesson](https://github.com/CodeCrew-CodeSchool/HelloWorld)
 
-[FREE CyberSecurity Intro Lesson](https://github.com/CodeCrew-CodeSchool/esd)
+### Additional Computer Science Topics
 
 [Side Quests - Things to Do On Your Adventure thru Computer Science](https://cdcrw.us/quests)
 
@@ -17,6 +27,8 @@
 # Join Existing Programming Projects
 
 [Program the CubeCrusher Game](https://github.com/CodeCrew-CodeSchool/CubeCrusher)
+
+[Build an AI App](https://github.com/CodeCrew-CodeSchool/Rag-App-POC)
 
 # Stay in Touch with CodeCrew
 
